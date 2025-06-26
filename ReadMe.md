@@ -33,7 +33,7 @@ This allowed quick assessment of customer service timeliness.
 ## 📊 Dashboard Walkthrough
 
 ### 🔹 1. **Executive Overview**
-![Dashboard Overview](images\Overview.png)
+![Overview Dashboard](images/Overview.png)
 
 - Displays **total calls, average wait time, SLA rate, revenue**, and other key indicators.
 - Summarizes call distribution by **type, site**, and **SLA compliance**.
@@ -42,7 +42,7 @@ This allowed quick assessment of customer service timeliness.
 ---
 
 ### 🔹 2. **Employee Performance Analysis**
-![Dashboard Overview](images\Employee.png)
+![Employee Performance](images/Employee.png)
 
 - Analyzes individual employee metrics: **call volume, SLA%, average wait time**.
 - Scatter plots surface outliers—employees excelling or needing support.
@@ -51,7 +51,7 @@ This allowed quick assessment of customer service timeliness.
 ---
 
 ### 🔹 3. **SLA Compliance Deep Dive**
-![Dashboard Overview](images\SLA.png)
+![SLA Compliance](images/SLA.png)
 
 - Compares SLA adherence across **sites, call types**, and **managers**.
 - Interactive breakdowns enable quick identification of service gaps.
@@ -60,7 +60,8 @@ This allowed quick assessment of customer service timeliness.
 ---
 
 ### 🔹 4. **Revenue Performance**
-![Dashboard Overview](images\Revenue.png)
+![Revenue Performance](images/Revenue.png)
+
 
 - Shows **total and per-call revenue** across locations and service lines.
 - Visualizes sales trends over time to uncover seasonality.
@@ -69,7 +70,7 @@ This allowed quick assessment of customer service timeliness.
 ---
 
 ### 🔹 5. **Global Filter Page**
-![Dashboard Overview](images\Filter.png)
+![Filter Panel](images/Filter.png)
 
 - A centralized filtering tool that **syncs across all report pages**.
 - Users can slice by **date, manager, employee, site**, and **call type**.
